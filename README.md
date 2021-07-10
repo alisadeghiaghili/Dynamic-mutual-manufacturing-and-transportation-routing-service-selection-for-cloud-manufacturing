@@ -1,5 +1,7 @@
-# Dynamic-mutual-manufacturing-and-transportation-routing-service-selection-for-cloud-manufacturing-wi
+# Dynamic mutual manufacturing and transportation routing service selection for cloud manufacturing with multi-period service-demand matching
+
 **One of my papers about Cloud Manufacturing and Industry 4.0**
+
 *All codes and sample data are included*
 
 Recently, manufacturing ﬁrms and logistics service providers have been encouraged to deploy the most recent features of Information Technology (IT) to prevail in the competitive circumstances of manufacturing industries. Industry 4.0 and Cloud manufacturing (CMfg), accompanied by a service-oriented architecture model, have
